@@ -1,0 +1,14 @@
+C:\Users\Luisito\source\repos\Aprendiendo\Aprendiendo\bin\Debug\Aprendiendo.exe.config
+C:\Users\Luisito\source\repos\Aprendiendo\Aprendiendo\bin\Debug\Aprendiendo.exe
+C:\Users\Luisito\source\repos\Aprendiendo\Aprendiendo\bin\Debug\Aprendiendo.pdb
+C:\Users\Luisito\source\repos\Aprendiendo\Aprendiendo\obj\Debug\Aprendiendo.csprojAssemblyReference.cache
+C:\Users\Luisito\source\repos\Aprendiendo\Aprendiendo\obj\Debug\Aprendiendo.csproj.CoreCompileInputs.cache
+C:\Users\Luisito\source\repos\Aprendiendo\Aprendiendo\obj\Debug\Aprendiendo.exe
+C:\Users\Luisito\source\repos\Aprendiendo\Aprendiendo\obj\Debug\Aprendiendo.pdb
+C:\Users\Luisito\source\repos\CRUD\Aprendiendo\bin\Debug\Aprendiendo.exe.config
+C:\Users\Luisito\source\repos\CRUD\Aprendiendo\bin\Debug\Aprendiendo.exe
+C:\Users\Luisito\source\repos\CRUD\Aprendiendo\bin\Debug\Aprendiendo.pdb
+C:\Users\Luisito\source\repos\CRUD\Aprendiendo\obj\Debug\Aprendiendo.csprojAssemblyReference.cache
+C:\Users\Luisito\source\repos\CRUD\Aprendiendo\obj\Debug\Aprendiendo.csproj.CoreCompileInputs.cache
+C:\Users\Luisito\source\repos\CRUD\Aprendiendo\obj\Debug\Aprendiendo.exe
+C:\Users\Luisito\source\repos\CRUD\Aprendiendo\obj\Debug\Aprendiendo.pdb
